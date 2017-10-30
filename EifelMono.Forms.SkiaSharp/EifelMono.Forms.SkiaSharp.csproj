@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SkiaSharp.Views.Forms" Version="1.59.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\EifelMono.Core\EifelMono.Core\EifelMono.Core.csproj" />
+  </ItemGroup>
+</Project>
