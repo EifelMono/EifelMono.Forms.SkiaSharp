@@ -2,8 +2,6 @@
 using Xamarin.Forms;
 using System.Threading.Tasks;
 using System.Threading;
-using System.Diagnostics;
-using System.Diagnostics.Contracts;
 using EifelMono.Core.Extensions;
 using SkiaSharp.Views.Forms;
 using SkiaSharp;
